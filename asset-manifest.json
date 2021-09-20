@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/country-phone-providers/static/css/main.c22e42fd.chunk.css",
+    "main.js": "/country-phone-providers/static/js/main.bfd3ca03.chunk.js",
+    "main.js.map": "/country-phone-providers/static/js/main.bfd3ca03.chunk.js.map",
+    "runtime-main.js": "/country-phone-providers/static/js/runtime-main.1157e64b.js",
+    "runtime-main.js.map": "/country-phone-providers/static/js/runtime-main.1157e64b.js.map",
+    "static/js/2.d9e5c913.chunk.js": "/country-phone-providers/static/js/2.d9e5c913.chunk.js",
+    "static/js/2.d9e5c913.chunk.js.map": "/country-phone-providers/static/js/2.d9e5c913.chunk.js.map",
+    "static/js/3.75098201.chunk.js": "/country-phone-providers/static/js/3.75098201.chunk.js",
+    "static/js/3.75098201.chunk.js.map": "/country-phone-providers/static/js/3.75098201.chunk.js.map",
+    "index.html": "/country-phone-providers/index.html",
+    "static/css/main.c22e42fd.chunk.css.map": "/country-phone-providers/static/css/main.c22e42fd.chunk.css.map",
+    "static/js/2.d9e5c913.chunk.js.LICENSE.txt": "/country-phone-providers/static/js/2.d9e5c913.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1157e64b.js",
+    "static/js/2.d9e5c913.chunk.js",
+    "static/css/main.c22e42fd.chunk.css",
+    "static/js/main.bfd3ca03.chunk.js"
+  ]
+}
