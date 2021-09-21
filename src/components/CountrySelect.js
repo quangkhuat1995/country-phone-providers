@@ -11,11 +11,13 @@ function CountrySelect(props) {
 			options={countries}
 			autoHighlight
 			getOptionLabel={(option) => option.label || ''}
-			renderOption={(props, option) => (
-				<Box component="li">
-					{option.label} ({option.code})
-				</Box>
-			)}
+			renderOption={(props, option) => {
+				return (
+					<Box component="li" {...props}>
+						{option.label} ({option.code})
+					</Box>
+				);
+			}}
 			renderInput={(params) => (
 				<TextField
 					{...params}
@@ -27,7 +29,7 @@ function CountrySelect(props) {
 				/>
 			)}
 			value={props.countryValue}
-			onChange={props.handleChangeCountry}
+			onChange={props.onChange}
 		/>
 	);
 }
