@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/country-phone-providers/static/css/main.48972911.chunk.css",
-    "main.js": "/country-phone-providers/static/js/main.4ac3f9a1.chunk.js",
-    "main.js.map": "/country-phone-providers/static/js/main.4ac3f9a1.chunk.js.map",
+    "main.js": "/country-phone-providers/static/js/main.f4d799d0.chunk.js",
+    "main.js.map": "/country-phone-providers/static/js/main.f4d799d0.chunk.js.map",
     "runtime-main.js": "/country-phone-providers/static/js/runtime-main.3d5531a8.js",
     "runtime-main.js.map": "/country-phone-providers/static/js/runtime-main.3d5531a8.js.map",
-    "static/js/2.d395388b.chunk.js": "/country-phone-providers/static/js/2.d395388b.chunk.js",
-    "static/js/2.d395388b.chunk.js.map": "/country-phone-providers/static/js/2.d395388b.chunk.js.map",
+    "static/js/2.a7d894e1.chunk.js": "/country-phone-providers/static/js/2.a7d894e1.chunk.js",
+    "static/js/2.a7d894e1.chunk.js.map": "/country-phone-providers/static/js/2.a7d894e1.chunk.js.map",
     "static/js/3.9122fe20.chunk.js": "/country-phone-providers/static/js/3.9122fe20.chunk.js",
     "static/js/3.9122fe20.chunk.js.map": "/country-phone-providers/static/js/3.9122fe20.chunk.js.map",
     "index.html": "/country-phone-providers/index.html",
     "static/css/main.48972911.chunk.css.map": "/country-phone-providers/static/css/main.48972911.chunk.css.map",
-    "static/js/2.d395388b.chunk.js.LICENSE.txt": "/country-phone-providers/static/js/2.d395388b.chunk.js.LICENSE.txt"
+    "static/js/2.a7d894e1.chunk.js.LICENSE.txt": "/country-phone-providers/static/js/2.a7d894e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d5531a8.js",
-    "static/js/2.d395388b.chunk.js",
+    "static/js/2.a7d894e1.chunk.js",
     "static/css/main.48972911.chunk.css",
-    "static/js/main.4ac3f9a1.chunk.js"
+    "static/js/main.f4d799d0.chunk.js"
   ]
 }
