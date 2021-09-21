@@ -27,7 +27,7 @@ function CountrySelect(props) {
 				/>
 			)}
 			value={props.countryValue}
-			onChange={props.onChange}
+			onChange={props.handleChangeCountry}
 		/>
 	);
 }
