@@ -1,0 +1,1674 @@
+[
+  {
+    "gateway": "Message Bird",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": "$0.01",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": "$11",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Argentina",
+    "country_code": "AR",
+    "cost_per_dedicated_number_per_month_usd": "$22",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Austria",
+    "country_code": "AT",
+    "cost_per_dedicated_number_per_month_usd": "$10",
+    "outbound_sms_costs_usd": "$0.09",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Bahrain",
+    "country_code": "BH",
+    "cost_per_dedicated_number_per_month_usd": "$82",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Brazil",
+    "country_code": "BR",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "cost_per_dedicated_number_per_month_usd": "$49",
+    "outbound_sms_costs_usd": "$0.10",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Canada",
+    "country_code": "CA",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": "$0.01",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "China",
+    "country_code": "CN",
+    "cost_per_dedicated_number_per_month_usd": "$10",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Germany",
+    "country_code": "DE",
+    "cost_per_dedicated_number_per_month_usd": "$9",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Guam",
+    "country_code": "GU",
+    "cost_per_dedicated_number_per_month_usd": "$15",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "cost_per_dedicated_number_per_month_usd": "$25",
+    "outbound_sms_costs_usd": "$0.14",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Lesotho",
+    "country_code": "LS",
+    "cost_per_dedicated_number_per_month_usd": "$49",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Liberia",
+    "country_code": "LR",
+    "cost_per_dedicated_number_per_month_usd": "$49",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "cost_per_dedicated_number_per_month_usd": "$55",
+    "outbound_sms_costs_usd": "$0.11",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Mauritius",
+    "country_code": "MU",
+    "cost_per_dedicated_number_per_month_usd": "$34",
+    "outbound_sms_costs_usd": "$0.09",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Mayotte",
+    "country_code": "YT",
+    "cost_per_dedicated_number_per_month_usd": "$34",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cost_per_dedicated_number_per_month_usd": "$7",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Monaco",
+    "country_code": "MC",
+    "cost_per_dedicated_number_per_month_usd": "$33",
+    "outbound_sms_costs_usd": "$0.14",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Poland",
+    "country_code": "PL",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Portugal",
+    "country_code": "PT",
+    "cost_per_dedicated_number_per_month_usd": "$21.50",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Romania",
+    "country_code": "RO",
+    "cost_per_dedicated_number_per_month_usd": "$14",
+    "outbound_sms_costs_usd": "$0.07",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cost_per_dedicated_number_per_month_usd": "$65",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "cost_per_dedicated_number_per_month_usd": "$24",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "South Sudan",
+    "country_code": "SS",
+    "cost_per_dedicated_number_per_month_usd": "$1.50",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "cost_per_dedicated_number_per_month_usd": "$7",
+    "outbound_sms_costs_usd": "$0.12",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cost_per_dedicated_number_per_month_usd": "$7",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "cost_per_dedicated_number_per_month_usd": "$11",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Thailand",
+    "country_code": "TH",
+    "cost_per_dedicated_number_per_month_usd": "$25",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Trinidad and Tobago",
+    "country_code": "TT",
+    "cost_per_dedicated_number_per_month_usd": "$24.50",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Turkey",
+    "country_code": "TR",
+    "cost_per_dedicated_number_per_month_usd": "$24",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Venezuela (Bolivarian Republic of)",
+    "country_code": "VE",
+    "cost_per_dedicated_number_per_month_usd": "$48",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Message Bird",
+    "country": "Viet Nam",
+    "country_code": "VN",
+    "cost_per_dedicated_number_per_month_usd": "$38",
+    "outbound_sms_costs_usd": "$0.07",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": 0.0481,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Austria",
+    "country_code": "AT",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.0766,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Belgium",
+    "country_code": "BE",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.0822,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Brazil",
+    "country_code": "BR",
+    "cost_per_dedicated_number_per_month_usd": "$8",
+    "outbound_sms_costs_usd": 0.0487,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Canada",
+    "country_code": "CA",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.0059,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Chile",
+    "country_code": "CL",
+    "cost_per_dedicated_number_per_month_usd": "$10",
+    "outbound_sms_costs_usd": 0.048,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Comoros",
+    "country_code": "KM",
+    "cost_per_dedicated_number_per_month_usd": "$23",
+    "outbound_sms_costs_usd": 0.0314,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "cost_per_dedicated_number_per_month_usd": "$11",
+    "outbound_sms_costs_usd": 0.0453,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Denmark",
+    "country_code": "DK",
+    "cost_per_dedicated_number_per_month_usd": "$10",
+    "outbound_sms_costs_usd": 0.04,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Estonia",
+    "country_code": "EE",
+    "cost_per_dedicated_number_per_month_usd": "$3",
+    "outbound_sms_costs_usd": 0.0747,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Finland",
+    "country_code": "FI",
+    "cost_per_dedicated_number_per_month_usd": "$18",
+    "outbound_sms_costs_usd": 0.07,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "France",
+    "country_code": "FR",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.0628,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Germany",
+    "country_code": "DE",
+    "cost_per_dedicated_number_per_month_usd": "$29",
+    "outbound_sms_costs_usd": 0.0751,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "cost_per_dedicated_number_per_month_usd": "$41",
+    "outbound_sms_costs_usd": 0.057,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Honduras",
+    "country_code": "HN",
+    "cost_per_dedicated_number_per_month_usd": "$42",
+    "outbound_sms_costs_usd": 0.0429,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "cost_per_dedicated_number_per_month_usd": "$16",
+    "outbound_sms_costs_usd": 0.0448,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Hungary",
+    "country_code": "HU",
+    "cost_per_dedicated_number_per_month_usd": "$35",
+    "outbound_sms_costs_usd": 0.0687,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "India",
+    "country_code": "IN",
+    "cost_per_dedicated_number_per_month_usd": "$117",
+    "outbound_sms_costs_usd": 0.0291,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "cost_per_dedicated_number_per_month_usd": "$19",
+    "outbound_sms_costs_usd": 0.1311,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Ireland",
+    "country_code": "IE",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.0585,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Israel",
+    "country_code": "IL",
+    "cost_per_dedicated_number_per_month_usd": "$14",
+    "outbound_sms_costs_usd": 0.0604,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Italy",
+    "country_code": "IT",
+    "cost_per_dedicated_number_per_month_usd": "$23",
+    "outbound_sms_costs_usd": 0.0738,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Japan",
+    "country_code": "JP",
+    "cost_per_dedicated_number_per_month_usd": "$1,755",
+    "outbound_sms_costs_usd": 0.07,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Latvia",
+    "country_code": "LV",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": 0.059,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "cost_per_dedicated_number_per_month_usd": "$4",
+    "outbound_sms_costs_usd": 0.0339,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "cost_per_dedicated_number_per_month_usd": "$23",
+    "outbound_sms_costs_usd": 0.0645,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": 0.0436,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": 0.041,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": 0.0795,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Norway",
+    "country_code": "NO",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": 0.058,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "cost_per_dedicated_number_per_month_usd": "$53",
+    "outbound_sms_costs_usd": 0.0939,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Philippines",
+    "country_code": "PH",
+    "cost_per_dedicated_number_per_month_usd": "$152",
+    "outbound_sms_costs_usd": 0.0361,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Poland",
+    "country_code": "PL",
+    "cost_per_dedicated_number_per_month_usd": "$3",
+    "outbound_sms_costs_usd": 0.0343,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Portugal",
+    "country_code": "PT",
+    "cost_per_dedicated_number_per_month_usd": "$15",
+    "outbound_sms_costs_usd": 0.0426,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "cost_per_dedicated_number_per_month_usd": "$3",
+    "outbound_sms_costs_usd": 0.0368,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Romania",
+    "country_code": "RO",
+    "cost_per_dedicated_number_per_month_usd": "$9",
+    "outbound_sms_costs_usd": 0.0604,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.04,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cost_per_dedicated_number_per_month_usd": "$70",
+    "outbound_sms_costs_usd": 0.0324,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "cost_per_dedicated_number_per_month_usd": "$26",
+    "outbound_sms_costs_usd": 0.0736,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "cost_per_dedicated_number_per_month_usd": "$88",
+    "outbound_sms_costs_usd": 0.0386,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.0231,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "South Korea",
+    "country_code": "KR",
+    "cost_per_dedicated_number_per_month_usd": "$35",
+    "outbound_sms_costs_usd": 0.04,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Spain",
+    "country_code": "ES",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": 0.0689,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cost_per_dedicated_number_per_month_usd": "$702",
+    "outbound_sms_costs_usd": 0.0523,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": 0.058,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": 0.0444,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Thailand",
+    "country_code": "TH",
+    "cost_per_dedicated_number_per_month_usd": "$27",
+    "outbound_sms_costs_usd": 0.0238,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Turkey",
+    "country_code": "TR",
+    "cost_per_dedicated_number_per_month_usd": "$26",
+    "outbound_sms_costs_usd": 0.0238,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "cost_per_dedicated_number_per_month_usd": "$26",
+    "outbound_sms_costs_usd": 0.105,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": "$2",
+    "outbound_sms_costs_usd": 0.0333,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.0083,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Vonage",
+    "country": "Viet Nam",
+    "country_code": "VN",
+    "cost_per_dedicated_number_per_month_usd": "$40",
+    "outbound_sms_costs_usd": 0.0511,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": "$3.67",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Canada",
+    "country_code": "CA",
+    "cost_per_dedicated_number_per_month_usd": "$10.00",
+    "outbound_sms_costs_usd": "$0.25",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Croatia",
+    "country_code": "HR",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$2.63",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Denmark",
+    "country_code": "DK",
+    "cost_per_dedicated_number_per_month_usd": "$10.00",
+    "outbound_sms_costs_usd": "$0.51",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Estonia",
+    "country_code": "EE",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$2.31",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "France",
+    "country_code": "FR",
+    "cost_per_dedicated_number_per_month_usd": "$26.67",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Hungary",
+    "country_code": "HU",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$1.74",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Ireland",
+    "country_code": "IE",
+    "cost_per_dedicated_number_per_month_usd": "$8.33",
+    "outbound_sms_costs_usd": "$0.67",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Israel",
+    "country_code": "IL",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$0.61",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "cost_per_dedicated_number_per_month_usd": "$39.17",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cost_per_dedicated_number_per_month_usd": "$43.33",
+    "outbound_sms_costs_usd": "$1.30",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "cost_per_dedicated_number_per_month_usd": "$40.00",
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "cost_per_dedicated_number_per_month_usd": "$710.83",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Norway",
+    "country_code": "NO",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$1.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Poland",
+    "country_code": "PL",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$0.96",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cost_per_dedicated_number_per_month_usd": "$79.17",
+    "outbound_sms_costs_usd": "$5.89",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$1.32",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Spain",
+    "country_code": "ES",
+    "cost_per_dedicated_number_per_month_usd": "$26.67",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$0.76",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cost_per_dedicated_number_per_month_usd": "$10.83",
+    "outbound_sms_costs_usd": "$1.33",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Clickatell",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": "$10.00",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": "$0.50",
+    "outbound_sms_costs_usd": "$0.01",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Canada",
+    "country_code": "CA",
+    "cost_per_dedicated_number_per_month_usd": "$0.75",
+    "outbound_sms_costs_usd": "$0.01",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": "$0.55",
+    "outbound_sms_costs_usd": "$0.55",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": "$1.50",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "France",
+    "country_code": "FR",
+    "cost_per_dedicated_number_per_month_usd": "$2.00",
+    "outbound_sms_costs_usd": "$0.07",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "cost_per_dedicated_number_per_month_usd": "$2.55",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "cost_per_dedicated_number_per_month_usd": "$6.17",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Colombia",
+    "country_code": "CO",
+    "cost_per_dedicated_number_per_month_usd": "$17.00",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Croatia",
+    "country_code": "HR",
+    "cost_per_dedicated_number_per_month_usd": "$4.25",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Belgium",
+    "country_code": "BE",
+    "cost_per_dedicated_number_per_month_usd": "$2.50",
+    "outbound_sms_costs_usd": "$0.10",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Cyprus",
+    "country_code": "CY",
+    "cost_per_dedicated_number_per_month_usd": "$30.00",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "cost_per_dedicated_number_per_month_usd": "$1.25",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Finland",
+    "country_code": "FI",
+    "cost_per_dedicated_number_per_month_usd": "$1.25",
+    "outbound_sms_costs_usd": "$0.07",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Greece",
+    "country_code": "GR",
+    "cost_per_dedicated_number_per_month_usd": "$1.25",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Hungary",
+    "country_code": "HU",
+    "cost_per_dedicated_number_per_month_usd": "$3.40",
+    "outbound_sms_costs_usd": "$0.09",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Ireland",
+    "country_code": "IE",
+    "cost_per_dedicated_number_per_month_usd": "$0.85",
+    "outbound_sms_costs_usd": "$0.07",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Israel",
+    "country_code": "IL",
+    "cost_per_dedicated_number_per_month_usd": "$3.40",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "China",
+    "country_code": "CN",
+    "cost_per_dedicated_number_per_month_usd": "$75.00",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Latvia",
+    "country_code": "LV",
+    "cost_per_dedicated_number_per_month_usd": "$1.50",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "cost_per_dedicated_number_per_month_usd": "$1.50",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "cost_per_dedicated_number_per_month_usd": "$18.00",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cost_per_dedicated_number_per_month_usd": "$5.83",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "cost_per_dedicated_number_per_month_usd": "$5.83",
+    "outbound_sms_costs_usd": "$0.09",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "cost_per_dedicated_number_per_month_usd": "$2.55",
+    "outbound_sms_costs_usd": "$0.10",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Philippines",
+    "country_code": "PH",
+    "cost_per_dedicated_number_per_month_usd": "$25.00",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Poland",
+    "country_code": "PL",
+    "cost_per_dedicated_number_per_month_usd": "$0.85",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "cost_per_dedicated_number_per_month_usd": "$1.50",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "cost_per_dedicated_number_per_month_usd": "$4.25",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "cost_per_dedicated_number_per_month_usd": "$1.28",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Spain",
+    "country_code": "ES",
+    "cost_per_dedicated_number_per_month_usd": "$3.00",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cost_per_dedicated_number_per_month_usd": "$1.00",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cost_per_dedicated_number_per_month_usd": "$0.85",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Plivo",
+    "country": "Turkey",
+    "country_code": "TR",
+    "cost_per_dedicated_number_per_month_usd": "$45.00",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 500
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 1400
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 3700
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 6600
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": 50,
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": 50,
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 1000
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": 50,
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 3000
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": 13.7,
+    "outbound_sms_costs_usd": "$0.14",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": 13.7,
+    "outbound_sms_costs_usd": "$0.07",
+    "minimum_volume": 250
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": 13.7,
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 1000
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.10",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.10",
+    "minimum_volume": 167
+  },
+  {
+    "gateway": "MessageMedia USA Inc.",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "cost_per_dedicated_number_per_month_usd": 21.17,
+    "outbound_sms_costs_usd": "$0.08",
+    "minimum_volume": 357
+  },
+  {
+    "gateway": "Burst  SMS",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": 5,
+    "outbound_sms_costs_usd": "$0.01",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Burst  SMS",
+    "country": "Canada",
+    "country_code": "CA",
+    "cost_per_dedicated_number_per_month_usd": 5,
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Burst  SMS",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "cost_per_dedicated_number_per_month_usd": 159,
+    "outbound_sms_costs_usd": "$0.78",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Burst  SMS",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": 6.9,
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Burst  SMS",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cost_per_dedicated_number_per_month_usd": "€19",
+    "outbound_sms_costs_usd": "$0.10",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Canada",
+    "country_code": "CA",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.01",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "China",
+    "country_code": "CN",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Spain",
+    "country_code": "ES",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.03",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "France",
+    "country_code": "FR",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Italy",
+    "country_code": "IT",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Norway",
+    "country_code": "NO",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.06",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.12",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Portugal",
+    "country_code": "PT",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.05",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.02",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Colombia",
+    "country_code": "CO",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "SMS MASIVOS",
+    "country": "Argentina",
+    "country_code": "AR",
+    "cost_per_dedicated_number_per_month_usd": "",
+    "outbound_sms_costs_usd": "$0.04",
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Azure",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": 1,
+    "outbound_sms_costs_usd": 0.0075,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Ring Central",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": 19.99,
+    "outbound_sms_costs_usd": 0.007,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "United States of America",
+    "country_code": "US",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.0075,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "UK",
+    "country_code": "#N/A",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.04,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Cananda",
+    "country_code": "#N/A",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.0075,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.049,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Australia",
+    "country_code": "AU",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.049,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Austria",
+    "country_code": "AT",
+    "cost_per_dedicated_number_per_month_usd": "$6",
+    "outbound_sms_costs_usd": 0.0932,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Belgium",
+    "country_code": "BE",
+    "cost_per_dedicated_number_per_month_usd": "$1",
+    "outbound_sms_costs_usd": 0.1,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Chile",
+    "country_code": "CL",
+    "cost_per_dedicated_number_per_month_usd": "$10",
+    "outbound_sms_costs_usd": 0.058,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Denmark",
+    "country_code": "DK",
+    "cost_per_dedicated_number_per_month_usd": "$15",
+    "outbound_sms_costs_usd": 0.0275,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Finland",
+    "country_code": "FI",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": 0.082,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "France",
+    "country_code": "FR",
+    "cost_per_dedicated_number_per_month_usd": "$2",
+    "outbound_sms_costs_usd": 0.076,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Israel",
+    "country_code": "IL",
+    "cost_per_dedicated_number_per_month_usd": "$14",
+    "outbound_sms_costs_usd": 0.0695,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "cost_per_dedicated_number_per_month_usd": "$5",
+    "outbound_sms_costs_usd": 0.092,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Puerto Rico",
+    "country_code": "PR",
+    "cost_per_dedicated_number_per_month_usd": "$3",
+    "outbound_sms_costs_usd": 0.04,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "cost_per_dedicated_number_per_month_usd": "$4",
+    "outbound_sms_costs_usd": 0.027,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "cost_per_dedicated_number_per_month_usd": "$12",
+    "outbound_sms_costs_usd": 0.049,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Estonia",
+    "country_code": "EE",
+    "cost_per_dedicated_number_per_month_usd": "$3",
+    "outbound_sms_costs_usd": 0.0845,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "cost_per_dedicated_number_per_month_usd": "$15",
+    "outbound_sms_costs_usd": 0.0545,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Hungary",
+    "country_code": "HU",
+    "cost_per_dedicated_number_per_month_usd": "$35",
+    "outbound_sms_costs_usd": 0.07,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Israel",
+    "country_code": "IL",
+    "cost_per_dedicated_number_per_month_usd": "$14",
+    "outbound_sms_costs_usd": 0.0695,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Italy",
+    "country_code": "IT",
+    "cost_per_dedicated_number_per_month_usd": "$25",
+    "outbound_sms_costs_usd": 0.0883,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "cost_per_dedicated_number_per_month_usd": "$4",
+    "outbound_sms_costs_usd": 0.01,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Philippines",
+    "country_code": "PH",
+    "cost_per_dedicated_number_per_month_usd": "$120",
+    "outbound_sms_costs_usd": 0.04,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Poland",
+    "country_code": "PL",
+    "cost_per_dedicated_number_per_month_usd": "$3",
+    "outbound_sms_costs_usd": 0.041,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Portugal",
+    "country_code": "PT",
+    "cost_per_dedicated_number_per_month_usd": "$15",
+    "outbound_sms_costs_usd": 0.045,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cost_per_dedicated_number_per_month_usd": "$75",
+    "outbound_sms_costs_usd": 0.0395,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cost_per_dedicated_number_per_month_usd": "$8",
+    "outbound_sms_costs_usd": 0.069,
+    "minimum_volume": 0
+  },
+  {
+    "gateway": "Twilio",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cost_per_dedicated_number_per_month_usd": "$2",
+    "outbound_sms_costs_usd": 0.055,
+    "minimum_volume": 0
+  }
+]
