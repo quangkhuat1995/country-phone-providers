@@ -21,7 +21,7 @@ function CountrySelect(props) {
 			renderInput={(params) => (
 				<TextField
 					{...params}
-					label="Choose a country"
+					placeholder="Choose a country"
 					inputProps={{
 						...params.inputProps,
 						autoComplete: 'new-password', // disable autocomplete and autofill

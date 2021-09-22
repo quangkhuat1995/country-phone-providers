@@ -37,7 +37,7 @@ function GatewayTable(props) {
 				totalCost,
 			};
 		});
-		return results.sort((a, b) => b.totalCost - a.totalCost);
+		return results.sort((a, b) => a.totalCost - b.totalCost);
 	}, [tableData, numbers, numberMessages]);
 
 	return (
