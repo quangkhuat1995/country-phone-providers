@@ -44,7 +44,6 @@ function App() {
 		fetch('https://extreme-ip-lookup.com/json/')
 			.then((data) => data.json())
 			.then((result) => {
-				console.log(result);
 				setCountryValue({ code: result.countryCode, label: result.country });
 				const tmpTableData = getDataProvidersFromCountry(result.countryCode);
 				setTableData(tmpTableData);

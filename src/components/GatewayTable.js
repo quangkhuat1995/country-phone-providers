@@ -19,6 +19,27 @@ const StyledTableHeadCell = styled(TableCell)(({ theme }) => ({
 
 function GatewayTable(props) {
 	const { tableData, numbers, numberMessages } = props;
+
+	const rows = React.useMemo(() => {
+		if (!tableData?.providers?.length) return [];
+		const results = tableData?.providers.map((provider) => {
+			const data = provider.volume.filter((num) => num <= numberMessages);
+			const meetConditionVolumeIndex = data.length ? data.length - 1 : 0;
+			const costForMessage = extractDollarSign(provider.messageCount[meetConditionVolumeIndex]) * numberMessages;
+			const costForNumber = extractDollarSign(provider.number[meetConditionVolumeIndex]) * numbers;
+			const totalCost = costForMessage + costForNumber;
+			return {
+				...provider,
+				providerName: provider.name,
+				countryName: tableData.name,
+				costForNumber,
+				costForMessage,
+				totalCost,
+			};
+		});
+		return results.sort((a, b) => b.totalCost - a.totalCost);
+	}, [tableData, numbers, numberMessages]);
+
 	return (
 		<TableContainer component={Paper}>
 			<Table sx={{ minWidth: 650 }} aria-label="simple table">
@@ -34,21 +55,21 @@ function GatewayTable(props) {
 						<StyledTableHeadCell className="bold" align="right">
 							Cost for {numberMessages} messages
 						</StyledTableHeadCell>
+						<StyledTableHeadCell className="bold" align="right">
+							Total Cost
+						</StyledTableHeadCell>
 					</TableRow>
 				</TableHead>
 				<TableBody>
-					{tableData?.providers?.length ? (
-						tableData?.providers.map((row, idx) => {
-							const data = row.volume.filter((num) => num <= numberMessages);
-							const meetConditionVolumeIndex = data.length ? data.length - 1 : 0;
-							const costForMessage = extractDollarSign(row.messageCount[meetConditionVolumeIndex]) * numberMessages;
-							const costForNumber = extractDollarSign(row.number[meetConditionVolumeIndex]) * numbers;
+					{rows?.length ? (
+						rows.map((row, idx) => {
 							return (
 								<TableRow key={`${row.name}-${idx}`} sx={{ '&:last-child td, &:last-child th': { border: 0 } }}>
-									<TableCell scope="row">{row.name}</TableCell>
-									<TableCell scope="row">{tableData.name}</TableCell>
-									<TableCell align="right">{convertToLocaleFormat(costForNumber)}</TableCell>
-									<TableCell align="right">{convertToLocaleFormat(costForMessage)}</TableCell>
+									<TableCell scope="row">{row.providerName}</TableCell>
+									<TableCell scope="row">{row.countryName}</TableCell>
+									<TableCell align="right">{convertToLocaleFormat(row.costForNumber)}</TableCell>
+									<TableCell align="right">{convertToLocaleFormat(row.costForMessage)}</TableCell>
+									<TableCell align="right">{convertToLocaleFormat(row.totalCost)}</TableCell>
 								</TableRow>
 							);
 						})
