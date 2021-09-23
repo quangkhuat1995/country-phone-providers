@@ -46,7 +46,7 @@ function GatewayTable(props) {
 				<TableHead>
 					<TableRow>
 						<StyledTableHeadCell className="bold">Gateway</StyledTableHeadCell>
-						<StyledTableHeadCell className="bold" align="right">
+						<StyledTableHeadCell className="bold" align="center">
 							Country
 						</StyledTableHeadCell>
 						<StyledTableHeadCell className="bold" align="right">
@@ -66,7 +66,9 @@ function GatewayTable(props) {
 							return (
 								<TableRow key={`${row.name}-${idx}`} sx={{ '&:last-child td, &:last-child th': { border: 0 } }}>
 									<TableCell scope="row">{row.providerName}</TableCell>
-									<TableCell scope="row">{row.countryName}</TableCell>
+									<TableCell align="center" scope="row">
+										{row.countryName}
+									</TableCell>
 									<TableCell align="right">{convertToLocaleFormat(row.costForNumber)}</TableCell>
 									<TableCell align="right">{convertToLocaleFormat(row.costForMessage)}</TableCell>
 									<TableCell align="right">{convertToLocaleFormat(row.totalCost)}</TableCell>
